@@ -1,0 +1,62 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.0,
+        "text": "Hello everyone. Today we are discussing the progress of our meeting AI project."
+    },
+    {
+        "start": 6.0,
+        "end": 11.0,
+        "text": "Our main goal is to create a system that can automatically transcribe"
+    },
+    {
+        "start": 11.0,
+        "end": 14.0,
+        "text": "meaning recordings and generate useful insights."
+    },
+    {
+        "start": 16.0,
+        "end": 19.0,
+        "text": "I have completed the initial front end design."
+    },
+    {
+        "start": 19.0,
+        "end": 23.0,
+        "text": "The upload page is ready and the users can select an audio file from the computer."
+    },
+    {
+        "start": 23.0,
+        "end": 27.0,
+        "text": "That's good. I will work on the AI pipeline first."
+    },
+    {
+        "start": 27.0,
+        "end": 33.0,
+        "text": "I will integrate faster whisper to convert the meeting audio into a time spent transcript."
+    },
+    {
+        "start": 34.0,
+        "end": 36.0,
+        "text": "I will work on the backend API."
+    },
+    {
+        "start": 36.0,
+        "end": 42.0,
+        "text": "The fast API server will receive the uploaded audio file and send it to the AI pipeline."
+    },
+    {
+        "start": 43.0,
+        "end": 46.0,
+        "text": "Great. We should try to complete this task by Friday."
+    },
+    {
+        "start": 46.0,
+        "end": 51.0,
+        "text": "After that, we can connect the front end backend and AI pipeline and test the complete system."
+    },
+    {
+        "start": 52.0,
+        "end": 56.0,
+        "text": "I agree. We should also prepare a short recording for a September evaluation."
+    }
+]
